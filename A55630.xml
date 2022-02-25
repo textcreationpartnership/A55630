@@ -1,0 +1,870 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'Estrange a papist proved by the depositions upon oath of Miles Prance, Mr. Lawr. Mowbray, Mrs. Jane Curtis, Mr. Richard Fletcher, Mr. Joseph Bennet : taken by the Right Honourable the Earl of Essex, Earl of Clarendon, and Earl of Craven : with several animadversions upon the said depositions, in answer to Mr. L'Estrange's late pamphlets ... / by Miles Prance.</title>
+            <author>Prance, Miles, fl. 1678-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 56 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55630</idno>
+            <idno type="STC">Wing P3174</idno>
+            <idno type="STC">ESTC R10292</idno>
+            <idno type="EEBO-CITATION">12999330</idno>
+            <idno type="OCLC">ocm 12999330</idno>
+            <idno type="VID">96456</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55630)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96456)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 396:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>L'Estrange a papist proved by the depositions upon oath of Miles Prance, Mr. Lawr. Mowbray, Mrs. Jane Curtis, Mr. Richard Fletcher, Mr. Joseph Bennet : taken by the Right Honourable the Earl of Essex, Earl of Clarendon, and Earl of Craven : with several animadversions upon the said depositions, in answer to Mr. L'Estrange's late pamphlets ... / by Miles Prance.</title>
+                  <author>Prance, Miles, fl. 1678-1689.</author>
+               </titleStmt>
+               <extent>[3], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>L'Estrange, Roger, --  Sir, 1616-1704.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="appointment_to_print">
+            <pb facs="tcp:96456:1"/>
+            <head>Febr. 8th. <hi>1681.</hi>
+            </head>
+            <p>I Do appoint <hi>Richard Baldwin,</hi> and no other Perſon to Print theſe Depo<g ref="char:EOLhyphen"/>ſitions,
+and Animadverſions upon <hi>Ro<g ref="char:EOLhyphen"/>ger L' Estrange.</hi> 
+               <abbr>Eſq</abbr>
+            </p>
+            <closer>
+               <signed>MILES PRANCE.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:96456:1" rendition="simple:additions"/>
+            <p>L'Eſtrange A PAPIST, Proved by the DEPOSITIONS UPON OATH OF MILES PRANCE,
+<list>
+                  <item>Mr. LAWR. MOWBRAY,</item>
+                  <item>Mrs. JANE CURTIS,</item>
+                  <item>Mr. RICHARD FLETCHER,</item>
+                  <item>Mr. JOSEPH BENNET.</item>
+               </list>
+            </p>
+            <p>Taken by the Right Honourable the Earl of <hi>Eſſex,</hi> Earl of <hi>Clarendon,</hi> and
+Earl of <hi>Craven.</hi>
+            </p>
+            <p>With ſeveral Animadverſions upon the ſaid Depoſitions, in Anſwer to Mr. <hi>L'
+Eſtrange</hi>'s late Pamphlets.</p>
+            <p>Publiſhed for the ſatisfaction of all true Proteſtants, and to Vindicate the <hi>Kings
+Evidence</hi> in General, from his Aſperſi<g ref="char:EOLhyphen"/>ons, as well as the <hi>Author</hi> in
+Perticular,</p>
+            <p>By <hi>MILES PRANCE.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Baldwin,</hi> in <hi>Ball-Court</hi> in the
+<hi>Old-Baily,</hi> MDCLXXXI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="depositions">
+            <pb facs="tcp:96456:2"/>
+            <pb n="1" facs="tcp:96456:2"/>
+            <head>DEPOSITIONS AGAINST Roger L' Strange <hi>ESQ<g ref="char:V">Ʋ</g>IRE.</hi>
+            </head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div n="Miles Prance" type="deposition">
+                        <head>
+                           <note place="margin">Middleſex. <hi>ſſ.</hi>
+                           </note> The Information of <hi>Miles
+Prance</hi> taken upon Oath the <hi>25th.</hi> of <hi>October, 1680.</hi> Before the Right
+Honourable the Earl of <hi>Claren<g ref="char:EOLhyphen"/>don,</hi> and the Earl of <hi>Craven,</hi> two of His Majeſties
+Juſtices of the Peace, for the ſaid County.</head>
+                        <p>THIS Deponent ſaith, that about three years ſince he ſaw Mr. <hi>Roger L' Strange</hi>
+three or four times Kneeling at Maſs in the Queens Chappel.</p>
+                        <closer>
+                           <signed>MILES PRANCE.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <pb n="2" facs="tcp:96456:3"/> This may be thought to be one cauſe of Mr. <hi>L' STRANGE'S</hi> bleſſing
+the world with ſo many Dialogues, perticularly that lately come forth between <hi>PHILO L'
+STRANGE,</hi> and <hi>PRAGMATIC<g ref="char:V">Ʋ</g>S;</hi> wherein he endeavours to clear himſelf from being
+either Papiſt or Jeſuit, by reflecting againſt the King's Evidence, and by pick<g ref="char:EOLhyphen"/>ing out the
+moſt convenient Opportunities, and Oc<g ref="char:EOLhyphen"/>caſions, that he can to render them contemptible. A way
+ſo improbable to gain beleif, that they who before never thought him ſuch, would now adjudge
+him rather ſo to be, than acquit him, for the Stir he keeps in his Defence. 'Tis not my
+buſineſs or Profeſſion, to be Mr. <hi>L' STRANGE's</hi> Confeſſor; neither do I think
+it to be a thing of ſo much moment to the Kingdom, whether Mr. <hi>L' STTRANGE</hi> be a Papiſt
+or no. Nor do I believe every one that comes into a <hi>Popiſh Chappel,</hi> and kneels in
+complaiſance to ſatisfie his Curioſity at a Maſs, to be a Papiſt; However I cannot but
+deem my ſelf obliged, having been ſo ſharply handled by <hi>ZECHIEL</hi> and
+<hi>EPHRA<g ref="char:EOLhyphen"/>IM,</hi> in vindication of my ſelf, to ſhew the world that I am no ſuch dealer in
+Affidavits, as he would make it beleive I am. For the Extent of my Affi<g ref="char:EOLhyphen"/>davit is eaſie to be
+diſcerned. I only made Oath of his being at ſuch a place, at ſuch times. For which my
+Affidavit is not alone; here is one more.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div n="Lawrence Mowbray" type="deposition">
+                        <pb n="3" facs="tcp:96456:3"/>
+                        <head>
+                           <note place="margin">Middleſ. <hi>ſſ.</hi>
+                           </note> The Information of <hi>Lawrence
+Mow<g ref="char:EOLhyphen"/>bray,</hi> taken upon Oath the <hi>25th.</hi> of <hi>October, 1680.</hi> Before the Right
+Honourable the Earl of <hi>Clarendon,</hi> and the Earl of <hi>Cra<g ref="char:EOLhyphen"/>ven,</hi> two of his Majesties
+Juſtices of the Peace for the ſaid County.</head>
+                        <p>THis Deponent ſaith, that about the firſt or ſecond <hi>Sunday</hi> in <hi>June</hi> 77.
+An ac<g ref="char:EOLhyphen"/>quaintance of one <hi>Anderſon</hi> (which <hi>Anderſon</hi> was Servant to Mr.
+<hi>Allabon</hi> in <hi>Greys-Inn</hi>) being with him in the Queens Chappel, ſa<g ref="char:EOLhyphen"/>luted
+immediately, after Maſs, a Perſon, whom he told this Deponent was Mr. <hi>L' Strange,</hi> who
+Licenc'd Bookes. This Deponent ſaith, that he hath once ſince ſeen the ſaid Mr. <hi>L'
+Strange</hi> at Maſs in the Queens Chappel, and ſaw him to be the ſame man he formerly ſaw
+there.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Hitherto, there is nothing Sworn, but that he was ſeen at Maſs, concerning which I have
+gi<g ref="char:EOLhyphen"/>ven my ſence already, that all that went to the Queens Chappel out of Curioſity were not
+pre<g ref="char:EOLhyphen"/>ſently to be accompted Papiſts. There muſt be ſomething elſe then to make men Judges
+what o<g ref="char:EOLhyphen"/>ther <hi>Inducements</hi> carry'd him thither; or whether any other Inducements or no? To
+which purpoſe I have inſerted theſe Informations that follow.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div n="Jane Curtis" type="deposition">
+                        <pb n="4" facs="tcp:96456:4"/>
+                        <head>
+                           <note place="margin">Middleſ. <hi>ſſ.</hi>
+                           </note> The Examination of <hi>Jane
+Curtiſs,</hi> taken Before the Right Honour<g ref="char:EOLhyphen"/>able the Earl of <hi>Clarendon,</hi> the Earl of
+<hi>Eſſex,</hi> and the Earl of <hi>Craven</hi> his Majeſties Juſtices of the Peace for the
+ſaid County of Middleſex, <hi>October, 27. 1680.</hi>
+                        </head>
+                        <p>THis Examinant ſaith that about the middle, or toward the Latter end of the Month of
+<hi>June</hi> Laſt, Mr. <hi>L' Strange</hi> came to her houſe (her Husband being out of Town)
+and there accus'd her and her Husband for Printing and Publiſhing divers bookes, which he ſaid
+were very dangerous againſt the Go<g ref="char:EOLhyphen"/>vernment, naming ſeveral Pamphlets which ſhe knew nothing
+of; and though ſhe truely did deny her ſelf concern'd in any ſuch thing, yet he perſiſted
+that he would prove it, and pro<g ref="char:EOLhyphen"/>ceeded to threaten that it lay in his power to ruin her and her
+Husband, and then told her of his great Intereſt at Court, and that if ſhe would tell him, who
+ſet her on to publiſh ſuch books, he would take her off from all trouble, and promiſed to
+do great things for her Husband. But ſhe denying that ſhe was ever concerned in ſuch
+practices, or had ever been urg'd or inſtigated thereunto by any, he ſaid that was falſe, and
+that ſhe had been in<g ref="char:EOLhyphen"/>fluenc'd
+<pb n="5" facs="tcp:96456:4"/>and ſtaid up by ill men, and that he be<g ref="char:EOLhyphen"/>leived it was <hi>Oates</hi> and his
+Gang, and, ſaid he, you know what ſome of them (ſpeaking of <hi>Oates</hi> and thoſe he
+call'd his Gang) are come to al<g ref="char:EOLhyphen"/>ready, and I do not queſtion but I ſhall ſee them all hanged
+ere long. And he refuſed to Licence ſeveral books wherein there was any thing a<g ref="char:EOLhyphen"/>gainſt the
+Papiſts, more particularly thoſe two bookes ſhe ſhewed your Lordſhips, which he Swore by
+his Maker, he would not Licence for five hundred pounds; which books upon the firſt ſight were
+Licens'd by the Lord Bi<g ref="char:EOLhyphen"/>ſhop of <hi>London.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div n="Joseph Bennet" type="deposition">
+                        <head>
+                           <note place="margin">Weſtmin. &amp; Libert. <hi>ſſ.</hi>
+                           </note> The Information of
+<hi>Joſeph Bennet</hi> of St. <hi>Giles</hi>'s in the fields <hi>Sta<g ref="char:EOLhyphen"/>tioner,</hi> taken upon Oath
+before the Lords Committees, for exam<g ref="char:EOLhyphen"/>ination of matters relating to the late horrid Plot Sworn
+before the Right Honourable the Earl of <hi>Clarendon,</hi> one of his Majeſties Juſtices of
+the Peace for the ſaid City this <hi>30th.</hi> of <hi>Octob. 1680.</hi>
+                        </head>
+                        <p>WHO ſaith, that he did become bayl, and enter'd into Bond be<g ref="char:EOLhyphen"/>fore one of the Clerks of the
+Council for one <hi>Captain Eli,</hi> that he ſhould appear the firſt day
+<pb n="6" facs="tcp:96456:5"/>of this Term at the Kings Bench barr, which ſaid <hi>Captain Eli</hi> was then
+a ſtranger to him; but <hi>Roger L' Strange</hi> 
+                           <abbr>Eſq</abbr> one of His Majeſt<g ref="char:EOLhyphen"/>ies
+Juſtices of the Peace, being at Mr. <hi>Hintons</hi> the Apothecaries, near this Informants
+Houſe, ſent for this Informant, and then told him, <hi>Cap<g ref="char:EOLhyphen"/>tain Eli</hi> was a friend of his,
+and an honeſt man, and therefore he the ſaid. Juſtice did requeſt this Informant to become
+Bail for the ſaid <hi>Captain Eli,</hi> and the ſaid <hi>L' Strange</hi> did then promiſe
+this Informant to give him ſecurity to ſave him harmeleſs, and pretended he would then have
+done it, had he not been in great haſt. And the ſaid Mr. <hi>L' Strange</hi> did tell this
+Informant he had ſent for another perſon to bail the ſaid <hi>Captain Eli,</hi> but he not
+being to be found, he therefore ſent for this Informant, and ſaid he would take it as a great
+kindneſs from this Informant.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div n="Richard Fletcher" type="deposition">
+                        <head>The Information of <hi>Richard Fletcher,</hi> of St. <hi>Vedaſt</hi> alias <hi>Foſter,
+London,</hi> Phiſician, taken as before.</head>
+                        <p>WHO ſaith, that about three years agoe he met <hi>Roger L' Strange</hi> 
+                           <abbr>Eſq</abbr> at
+the <hi>Half-Moon</hi> Tavern in <hi>Cheap-ſide</hi> about Li<g ref="char:EOLhyphen"/>cenſing a book entitl'd, The
+workes of <hi>Geber an Arabian Prince and Philoſopher,</hi> and gave Mr. <hi>L' Strange</hi> a
+Guiny for his Licenſe, and a diſ<g ref="char:EOLhyphen"/>courſe happening about Religion, Mr. <hi>L' Strange</hi>
+asked of what Religion this Informant was? who
+<pb n="7" facs="tcp:96456:5"/>anſwered, a Catholick. <hi>L' Strange</hi> replyed are you a <hi>Roman</hi>
+Catholick? This Informant anſwered that was Nonſence. Catholick being univerſal, and not to
+be circumſcrib'd. Then <hi>L' Strange</hi> bid this Informant explain himſelf. I anſwered,
+<hi>that Faith that wrought the fear of God and to do righteouſly,</hi> doth declare thoſe that
+are of the Catholick Church, which I take to be the Church of <hi>England.</hi> Mr. <hi>L'
+Strange</hi> then declar'd himſelf to be a Catholick of <hi>Rome,</hi> and to beleive the Faith
+of that Church, and told this Informant that his difinition was too large. This Informant then
+ask'd the ſaid <hi>L' Strange,</hi> whether the Pope were the head of that Church, of which he
+acknowledged himſelf a Member? who an<g ref="char:EOLhyphen"/>ſwered he was, and hoped ere long, many o<g ref="char:EOLhyphen"/>thers would
+return to that Church, or to that effect, and further ſaith not.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>As to my own Affidavit, which is the firſt here produced, I do find Mr. <hi>L'STRANGE</hi>
+triumph<g ref="char:EOLhyphen"/>ing in the 35. Page of his <hi>Appeal,</hi> that I had ſeen him no more than <hi>three or
+four times at Maſs, at</hi> Somerſet <hi>Houſe. Whereupon,</hi> (ſays he,) <hi>I did with
+the moſt horrid Solemnity of Imprecation Imaginable, declare my ſelf to be of the Religion of
+the Church of</hi> England, <hi>and that I had never entred into any Popiſh Chappel, or been
+preſent at any Maſs ſince his Majeſtie</hi>'s <hi>Re<g ref="char:EOLhyphen"/>turn. Which Proteſtation I do here
+again reſume, in<g ref="char:EOLhyphen"/>tending by theſe words, His Majeſties Return, the Kings bleſſed
+Reſtauration in the year</hi> 1660. And then, as if he thought this Proteſtation not
+ſuffici<g ref="char:EOLhyphen"/>ent;
+<pb n="8" facs="tcp:96456:6"/>he makes a <hi>note</hi> upon the <hi>great abatement</hi> of my
+<hi>reckning?</hi> as being <hi>aſſured</hi> by report, that I had ſworn <hi>in the company
+of Care, Curtiſs</hi> and others, that I <hi>had ſeen him at Maſs, at leaſt, or about a
+hundred times.</hi>
+            </p>
+            <p>As for what he was aſſur'd of by report, I va<g ref="char:EOLhyphen"/>lue it not: neither is it material to the
+Poynt; as being of little or no force againſt him. The dif<g ref="char:EOLhyphen"/>ference is between his
+<hi>Proteſtation,</hi> and my <hi>Oath.</hi> Which I have here confirmed by the Oath of an<g ref="char:EOLhyphen"/>other
+Perſon, Mr. <hi>Mowbray</hi> by name, who likewiſe ſwears he ſaw him twice in the year
+1677. at a <hi>Popiſh Chappel,</hi> that is to ſay at <hi>Somerſet-Houſe:</hi> To the great
+diſparagement of that part of his Pro<g ref="char:EOLhyphen"/>teſtation, <hi>never ſince the Kings
+Reſtauration,</hi> which was in the <hi>year,</hi> 1660. Now I would never have tak<g ref="char:EOLhyphen"/>en notice of
+Mr. <hi>L' Strange</hi>'s ſolemn Declaration, had it been upon any other account but this, that
+either he has ſome particular reſerves to himſelf, or I muſt be perjur'd, and that ſhould
+he now go un<g ref="char:EOLhyphen"/>anſwered (which is a thing he boaſts of) the ſharp Twits which he has given the
+Kings Evidence would paſs for Currant, and he would come to be a quot<g ref="char:EOLhyphen"/>ed Author againſt Us. And
+therefore I do as pub<g ref="char:EOLhyphen"/>lickly and as ſolemnly declare as he has done, that I am as tender of
+Swearing to the detriment of my Neighbour as any other perſon that aimes at the Enjoyment of a
+future Happineſs. For my part I know not to what very great purpoſe the latter part of his
+Declaration was made. For having ſo ſolemnly declared himſelf of the Church of
+<hi>England,</hi> what if he had been ſeen twenty times at a Popiſh Chappel? But that part of
+his Poteſtation was per<g ref="char:EOLhyphen"/>ticularly level'd at my Oath, which I am oblig'd to uphold ſo farr as
+honeſtly I may. And that too
+<pb n="9" facs="tcp:96456:6"/>without any reflection upon Mr. <hi>L'Eſtrange</hi>'s Honeſty or his Loyalty,
+fully believing neither to be inconſi<g ref="char:EOLhyphen"/>ſtent with the Profeſſion of the Popiſh
+Religion.</p>
+            <p>In his <hi>Caſe,</hi> where he talks to himſelf in his own Cauſe, under the Perſons of
+<hi>Zekiel</hi> and <hi>Ephraim,</hi> like one that playes at Tables with his right Hand againſt
+his left; <hi>Ephraim</hi> tells <hi>Zekiel,</hi> that he was <hi>rounded in the Ear, that</hi>
+Prance <hi>had Ten Witneſſes in readi<g ref="char:EOLhyphen"/>neſs to prove that</hi> L'Eſtrange <hi>had been Forty
+times at Maſs here, and ſolemnly Worſhipping according to the Profeſſion of the Romiſh
+Communion.</hi>
+            </p>
+            <p>And thus I who made a Confeſſion ſo re<g ref="char:EOLhyphen"/>marakble, and thereby diſcover'd that bloody deed
+of darkneſs, which enlighten'd the whole Nation, am here rendred as one that kept
+<hi>Witneſſes in readineſs,</hi> or rather, pickl'd Witneſſes for preſent uſe. By
+this means, in a ſhort time, the Murther of Sr. <hi>Edmun<g ref="char:EOLhyphen"/>bury Godfrey,</hi> will be as little
+believ'd as the ſilly Sto<g ref="char:EOLhyphen"/>ry of Mr. <hi>Powel.</hi> To which purpoſe Mr.
+<hi>L'Eſtrange</hi>'s Narrative of the Plot ſeems to have but odly Cou<g ref="char:EOLhyphen"/>pl'd that foul Fact,
+with the ridicule of Mr. <hi>Powel</hi>'s eſcape, which renders the Frame work very
+ſuſpici<g ref="char:EOLhyphen"/>ous. For though it be true, that the <hi>diſparagement of a juggle, no way weakens
+the Truth;</hi> Yet there may be that manner of ſpeaking, and that Art made uſe of in the
+contexture of Words, that may overturn that Maxime. With ſubmiſſion to Mr.
+<hi>L'Estrange,</hi> there is in that place (<hi>Nar. P.</hi> 19.) ſuch a mixture of the
+meaneſt fourberies of <hi>Report,</hi> which the moſt in<g ref="char:EOLhyphen"/>conſiderable Circumſtance of the
+Diſcovery, that my ſlender Opinion is, that a more prudent Progreſſion in Logick ought to
+have ſupported the violent Death of Sir <hi>Edmunbury Godfrey.</hi> For if the Story of
+Mon<g ref="char:EOLhyphen"/>ſieur
+<pb n="10" facs="tcp:96456:7"/>
+               <hi>Choqueuz</hi> Fire-works, were never prov'd the ſuſ<g ref="char:EOLhyphen"/>pition of
+<hi>Tukesbury</hi> Muſtard-Balls, was never yet ac<g ref="char:EOLhyphen"/>counted the greateſt Argument of the Plot.
+And if the buſineſs of Sir <hi>Henry Titchbourns</hi> Armes were not made out, the Surmiſe of
+the <hi>Black-Bills</hi> lies as much at the Mercy of any mans Belief, without any preju<g ref="char:EOLhyphen"/>dice to
+the Belief of the Plot; and thus Poſterity ſhall Argue from Circumſtances not much material,
+whether they are believed or no, the falſhood of the greateſt Diſcoveries of the Grand Plot
+that ever was made in the World. Eſpecially when Mr. <hi>L'Eſtrange</hi> ſhall go about to
+convince the World of the falſhood and Perjury of the chief Evidence of his Murther. For my part,
+I much wonder why Mr. <hi>L'Eſtrange</hi> ſhould ſo much trouble himſelf with his
+<hi>Schiſmatical-Plot.</hi> They who diſcovered the Popiſh-Plot, produced the Conſpirators,
+nam'd their Names, brought their Evi<g ref="char:EOLhyphen"/>dence againſt them, and were the occaſion of Sentence and
+Execution. If Mr. <hi>L'ſtrange</hi> knew of any <hi>Schiſ<g ref="char:EOLhyphen"/>matical</hi> or <hi>Phanatick</hi>
+Plot, He ought to have done the ſame. Otherwiſe upon no other Grounds but the wandring Notions
+of unlicens'd Books, to cry out a <hi>Phanatick</hi>-Plot, is but juſt, as when they cry out
+<hi>Thieves</hi> at one end of the Houſe, and at the ſame time to cry out <hi>Thieves</hi> at
+the other end, and thereby to diſtract, and diſcompoſe the Defence of the whole.</p>
+            <p>In the next place I obſerve, that when, in your Ap<g ref="char:EOLhyphen"/>peal, you have dignified Mr. <hi>Care</hi>
+with the meaneſt of Characters (though in ſome Sheets of Mr. <hi>Cares</hi> there are thoſe
+things produc'd, that will take up Mr. <hi>L'Eſtrange</hi> a full year to Anſwer by way of
+Dialogue.</p>
+            <p>You tell the World he wrote my Narrative. That is to ſay, my Narrative was a pittiful
+contemptible thing, and conſequently little to be credited. Never<g ref="char:EOLhyphen"/>theleſs. in ſuch a
+Narrative as that, neither the Lan<g ref="char:EOLhyphen"/>guage
+<pb n="11" facs="tcp:96456:7"/>as I humbly conceive, nor the perſon that wrote it were ſo much to be
+regarded, as the Verity of the matter of Fact. And many people perhaps ſee with Mr.
+<hi>L'Eſtranges</hi> Eyes, and out of a Reſpect to his In<g ref="char:EOLhyphen"/>genuity, Judg with his Judgment. In
+which Reſpect I am a little induced to queſtion Mr. <hi>L'Eſtranges</hi> ſo of<g ref="char:EOLhyphen"/>ten by
+himſelf aſſerted difference and kindneſs to the Kings Evidence, for giving ſuch a publick
+Advertiſe<g ref="char:EOLhyphen"/>ment of my Narrative, after he had made the Writer ſo miſerably Ridiculous, he
+might have proſecuted his Revenge, without ſuch an unſeaſonable Reflection. But whoever
+aſſiſted as to the Form, the matter was mine, and publick Juſtice is ſatisfied.</p>
+            <p>I come now to the <hi>Information</hi> of <hi>Jane Curtis,</hi> the ſubſtance of which is,
+That Mr. <hi>L'Eſtrange</hi> ſpeaking of <hi>Oates and his Gang,</hi> ſaid, <hi>He did not
+queſtion but to ſee them all hang'd ere long,</hi> and that he refus'd to Li<g ref="char:EOLhyphen"/>cenſe 2 Books,
+Swearing he would not do it for 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> which afterwards the Lord Biſhop of
+<hi>London</hi> Licenſed at firſt ſight.</p>
+            <p>In the firſt place I muſt certainly conclude my ſelf to be comprehended in Mr.
+<hi>L'Eſtranges</hi> kind wiſhes, as confeſſing my ſelf to be one of thoſe which he
+called of the <hi>Gang.</hi> As for the woman that ſwore the Oath the World has not been heard as
+yet to give her any other Character than of a Painful and Induſtrious Wo<g ref="char:EOLhyphen"/>man, very much
+intruſted, and a fair Dealer: Whe<g ref="char:EOLhyphen"/>ther ſhe have ſworn true or falſe, I will not undertake
+to determine, that is to her own Conſcience. But if ſhe have ſworn true, as there is little
+reaſon to miſ<g ref="char:EOLhyphen"/>doubt, where there is ſo little reaſon to ſurmiſe to the contrary. Then
+it is not his twilting her Husband with a <hi>Fooliſh trick he hath taken up of winding up his
+Noſe and ſheiting his Teeth,</hi> will free him from the heavy cenſures that will follow; But
+twas no wonder he fell ſo foul upon the Husband, when the Wiſe lay ſo heavy upon him.</p>
+            <pb n="12" facs="tcp:96456:8"/>
+            <p>What will be thought of him, who in an <hi>Appeal to the Kings moſt excellent Majeſty, and
+the three Eſtates aſsembled in Parliament,</hi> had produced ſo many <hi>Quo<g ref="char:EOLhyphen"/>tations</hi>
+from his own <hi>Writings</hi> to teſtifie the Eſteem and Honour he had for the Kings Evidence?
+What will be thought of thoſe <hi>Quotations</hi> themſelves? and that particular
+<hi>Ejaculation</hi> to the Doctor, <hi>They are won<g ref="char:EOLhyphen"/>derful things, Doctor, which you have done,
+and I am perſuaded that you are reſerved for more wonderful things to come,</hi> but that they
+were only the Compli<g ref="char:EOLhyphen"/>ments of Scorn and Deriſion? For Deriſion is many times as Complimental as
+Friendſhip it ſelf. And this is moſt certain, that he that wiſhes another man hang'd, can
+never have an eſteem for his Perſon. For my part until this Difference be decided, I muſt be
+convinced he has no kindneſs for me. And then the World muſt conclude him partial as to my
+concerns. And I will go a little farther to put it to the Vote among all thoſe of the true Church
+of <hi>England,</hi> how well it became the Charity of a declared Church of <hi>England</hi>-Man,
+to wiſh <hi>Outs and all his Gang</hi> in the Hangman's Nooze? And it may be queſtion'd,
+whether ſuch a one be what he affirms himſelf to be, let him proteſt never ſo deep<g ref="char:EOLhyphen"/>ly.</p>
+            <p>As for the latter part of this Information, I will not undertake to be a Compitent Judg of Mr.
+<hi>L'Eſtrange's</hi> Learning, or whether it be ſuperiour to that of any one of the Lord
+Biſhop of <hi>London</hi>'s Chap<g ref="char:EOLhyphen"/>lains; but me thinks it ſeems a little od to my weak Judgment,
+that there ſhould be ſuch a vaſt difference in the Opinions of two ſuch Eminent men of the
+Church of <hi>England,</hi> as Mr. <hi>L'Eſtrange</hi> and the Biſhops Chaplain, that the one
+ſhould refuſe, and ſwear <hi>by his Maker,</hi> he would not Licence a couple of Sheets, no,
+not for five hundred pounds (a good ſmiling Temp<g ref="char:EOLhyphen"/>tation) which the other did <hi>Gratis,</hi> at
+the firſt ſight.
+<pb n="13" facs="tcp:96456:8"/>And yet we have as little Reaſon to queſtion the Loy<g ref="char:EOLhyphen"/>alty and Integrity of
+my Lord Biſhop of <hi>Londons</hi> Chaplains, as we have to queſtion Mr.
+<hi>L'Eſtranges.</hi> So that it follows, that it muſt be either a very great weak<g ref="char:EOLhyphen"/>neſs or
+overſight, either in the one or the other. Now you'l ſay, what were the Titles, or what the
+Subjects of thoſe two Sheets. The one was, <hi>The Character of a Turbulent Pragmatical
+Jeſuite, and Fastious Romiſh Prieſt.</hi> Epitomizing their Continual Diſturbancies of
+Church and State, and particularly giving an Ac<g ref="char:EOLhyphen"/>count of the Death of the Emperor <hi>Henry</hi>
+the 7th, who was Murdered by one <hi>Bernardine,</hi> a predicant Fryer, that gave him Poyſon in
+the Holy <hi>Euchariſt.</hi> Li<g ref="char:EOLhyphen"/>cenſed, <hi>Oct.</hi> 15. 1678. The other, <hi>A Letter from a
+Catholick Gentleman to his Popiſh Friends,</hi> then <hi>to be exil'd from London.</hi>
+Ironically adviſing them to obey their Ghoſtly Fathers, and not the King; and thereby taking an
+occaſion to ſhew how little the Papiſts re<g ref="char:EOLhyphen"/>garded <hi>Teſts</hi> or <hi>Oaths,</hi> to whom
+a Diſpenſation from the Pope was always an <hi>Infallible help at Maw,</hi> againſt
+<hi>Perjurie.</hi> Licenſed, 1678.</p>
+            <p>Theſe were the two ſcare-Crowes that ſo terriſied Mr. <hi>L'Eſtrange,</hi> and which
+were of ſuch dangerous con<g ref="char:EOLhyphen"/>ſequence to the Government, and the Church of <hi>En<g ref="char:EOLhyphen"/>gland,</hi>
+that he would not Licenſe them for 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> And yet it is apparent, they were
+Licenſed, and by thoſe who were as Chary of offending the Government, or the Church of
+<hi>England</hi> as he could be. It were almoſt madneſs to think that thoſe Reverend
+Gentlemen who were entruſted with the Licenſing of Books, at <hi>Lam<g ref="char:EOLhyphen"/>beth</hi> or
+<hi>London</hi>-Houſe, ſhould be ſo inconſiderate, or ſo unfaithful to let go or connive
+at any thing preju<g ref="char:EOLhyphen"/>dicial to the Church and State. Unleſs there be any that think the Art and
+Judgment of Licenſing ſuch a Miſtery, that only Mr. <hi>L'Eſtrange</hi> has obtained it by
+long Practice. But there may be ſomething in the Caſe
+<pb n="14" facs="tcp:96456:9"/>indeed. For theſe wonderful Gentlemen, <hi>Dick</hi> and <hi>Tom, Citt</hi>
+and <hi>Bumpkin, Zekiel</hi> and <hi>Ephraim, Philo-L'Eſtrange</hi> and <hi>Pragmaticus,</hi> may
+be the wiſeſt men in the World, and of Mr. <hi>L'Eſtranges</hi> Privy-Council for ought I
+know, and he himſelf may have the Spirit of Licenſing, and a diſcerning Faculty above all the
+World beſide, for any thing I can contradict him. All that I have to ſay is, that I ſtand
+ſtill in my own De<g ref="char:EOLhyphen"/>fence, and have only brought theſe Circumſtances to make it out that if I
+did ſee a Man at Maſs, there might be probably ſome other Reaſon for it then
+Cu<g ref="char:EOLhyphen"/>rioſity.</p>
+            <p>The next is the Information of <hi>Joſeph Bennet,</hi> that Mr. <hi>L'ſtrange</hi>
+importun'd him to Bayl Captain <hi>Eli</hi> at the Council-Board. What harm in all this? None at
+all that I know. 'Twas the part of a Gentleman and a Friend to take care of his Friend in
+Adverſity. But we are ſtill to conſider the circumſtances. Captain <hi>Eli</hi> it ſeems
+was in the ſame accuſation with himſelf, but this argues that Mr. <hi>L'ſtrange</hi> knew
+the perſon well and was acquainted with his Crime. However you'l ſay, Mr. <hi>L'Eſtrange</hi>
+was happily acquitted, and I am exceedingly glad of it. Nevertheleſs I ſay again, Mr.
+<hi>L'Eſtrange</hi> did know the perſon, &amp; was acquainted with his Offence, and perhaps he
+judged it ſlight and trivial, or elſe he did ill to engage his Friend. But this Captain
+<hi>Eli</hi> was a Conſpirator with himſelf, deeply engaged; a perſon that he know to be
+concerned with him, a per<g ref="char:EOLhyphen"/>ſon that had paid <hi>Tongue</hi> ſeveral ſums of money to<g ref="char:EOLhyphen"/>ward the
+carrying on the Deſign, and therefore it became him as a Gentleman to procure Bail for his follow
+Conjurator: Let him make a Dialogue to clear himſelf of this, and then for Papiſt or no
+Papiſt, when he pleaſes he ſhall have more of it; in the mean time, the World is to
+conſider upon what account this <hi>Affi<g ref="char:EOLhyphen"/>davit</hi> is produced.</p>
+            <pb n="15" facs="tcp:96456:9"/>
+            <p>There is yet behind the Examination of Mr. <hi>Richard Fletcher,</hi> who ſwears, that after
+ſome diſcourſe, Mr. <hi>L'Eſtrange</hi> declar'd himſelf to him, <hi>to be a Catholick of
+Rome, and to believe the Faith of that Church,</hi> and that being ask'd <hi>whether the Pope were
+the head of that Church He anſwered he was; and he hoped ere long, many others would turn to that
+Church, or to that effect.</hi>
+            </p>
+            <p>As for the perſon that ſwears, he is well known both in City and Country, a perſon that
+lives handſomely &amp; gentielely, and a great lover of that noble Science to which Mr.
+<hi>L'Eſtrange</hi> cannot be thought to bear any Spleen, though for his excellency in
+performance he has been too unkindly reproach'd; ſo that the world does hardly believe that Mr.
+<hi>Fletcher,</hi> a perſon by his Indu<g ref="char:EOLhyphen"/>ſtry ſo well guarded from Neceſſity, would make
+ſuch a Diſcord in Human Society, as to ſwear though it were for 500 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+to the prejudice of the leaſt Hair of Mr. <hi>L'Eſtrang</hi>'s head. Now then the Queſtion
+is, which the unbyaſſed are to believe? <hi>Dick</hi> or <hi>Tom Zekiel</hi> or <hi>Ephraim,
+Citt</hi> or <hi>Bumkin, Philo-L'Eſtrange,</hi> or <hi>Pragma<g ref="char:EOLhyphen"/>ticus,</hi> or Mr.
+<hi>L'Eſtrange</hi> himſelf, with his own Lips de<g ref="char:EOLhyphen"/>claring himſelf to be a <hi>Catholick of
+Rome, and to believe the Faith of that Church?</hi> If Mr. <hi>L'Eſtrange</hi> has chang'd his
+mind ſince he made this Declaration, there's no more to be ſaid, I'le yield my
+<hi>Affidavit</hi> loſt; if not, 'tis a Riddle to me, unleſs he mean ſuch a Church of
+<hi>En<g ref="char:EOLhyphen"/>gland</hi> Man, as in the Reign of <hi>Henry</hi> the 7th or <hi>Queen Mary.</hi> He
+declares one thing, and proteſts another. How to judg is a hard Caſe, and yet me thinks there
+is but little Reaſon, that he who will not believe himſelf, ſhould be believ'd by others.
+What is it to me, whe-Mr. <hi>L'Eſtrange</hi> be a Papiſt or no? And yet I cannot conceive it
+to be ſuch an irrefragable Argument, that a man is no Papiſt becauſe he rattles the
+<hi>Phanaticks,</hi> and exclaims with ſo much bitterneſs againſt the out<g ref="char:EOLhyphen"/>ragious Liberty of
+the Preſs. He is the moſt impro<g ref="char:EOLhyphen"/>per
+<pb n="16" facs="tcp:96456:10"/>perſon in the World to combat the freedom of Scribling, or at leaſt to
+purſue that Subject with ſo much virulence and bitterneſs of Spirit. For all the world will
+judg that to be Self-Intereſt in him, which would be thought real Sentiment in another. On the
+other ſide nothing more prevails with me to believe the Gentleman is no Papiſt, becauſe I
+cannot con<g ref="char:EOLhyphen"/>ceive that any perſon of true Learning and Ingenuity would be of ſuch a Mock ſhow,
+Gewgaw, Joynted-Baby Religion, that puts Divine worſhip to hold <hi>de la quenoville,</hi> and
+would inforce us to deifie the Di<g ref="char:EOLhyphen"/>ſtaff, with as many Titles of Honour in her Liturgie, as ever
+the Queen of <hi>Spain</hi> had. But if ſelf-Intereſt happen to dazle the Sight, or the
+Proſpect of prefer<g ref="char:EOLhyphen"/>ment better improve a mans judgment, I have nothing more to ſay.</p>
+            <p>But what is it to me, whether Mr. <hi>L'Eſtrange</hi> be a Papiſt or no? My deſign is only
+to maintain the Truth of my Information. I have ſworn that I did ſee Mr. <hi>L'Eſtrange</hi>
+at Maſs in the Queens Chappel ſince his Majeſties happy Reſtauration, 1660 And that I will
+juſtify, though he reſume a Proteſtation as long as from <hi>Charing-Croſs</hi> to
+<hi>Milend-Green.</hi> For if he will not believe his own Lips, I muſt and will believe my own
+Eyes. He ſays indeed, <hi>I could not ſay I ſaw him Receive.</hi> 'Tis very right; for I
+ſaw no ſuch thing; and therefore becauſe I ſwore no more then I ſaw, 'tis the fairer
+Argument that what I ſwore was the Truth. But what ſays <hi>Ephraim</hi> my Beloved? Why
+<hi>Ephraim</hi> ſays, that I ſhould ſay, that I would ſwear I had ſeen him forty times
+at Maſs. But you ſee, my Beloved, that <hi>Ephraim</hi> was unkind in his Report, He was a
+falſe Brother, and ſtrayed from the Truth.</p>
+            <pb n="17" facs="tcp:96456:10"/>
+            <p>But what if <hi>Ephraim</hi> had heard it? 'twas onely a re<g ref="char:EOLhyphen"/>port, and no more than what Mr.
+<hi>L'Eſtrange</hi> himſelf tells the world in his <hi>Appeal,</hi> onely that the Number
+differs; <hi>viz.</hi> That I ſhould ſay in company, That I would ſwear I had <hi>ſeen</hi>
+Him at Maſs <hi>above a hundred times.</hi> By which, the world may ſee, that Mr.
+<hi>L'Eſtrange</hi> was more <hi>Afraid</hi> than <hi>Hurt.</hi> But I would fain know what 'tis
+to the pur<g ref="char:EOLhyphen"/>poſe, what <hi>Ephraim</hi> reports, or what he by his Eeves-droppers is aſſured
+of, when the Oath it ſelf appears, and puts all Reports and Hear-ſays out of doors. Why then to
+unfold the Myſtery, they were only <hi>Attaques</hi> of <hi>Diſpa<g ref="char:EOLhyphen"/>ragement;</hi> one of the
+moſt prudent waies in the world to undermine and blow up a Teſtimony. To which purpoſe
+<hi>Ephraim</hi> the Cunning layes another Train, and tells <hi>Zekiel</hi> the Suttle, that he was
+<hi>rounded in the Ear,</hi> that I had <hi>Ten Witneſſes in a readineſs,</hi> to make good
+my proof. A Reproach, which wherever it takes faſt hold, ſpreads it ſelf, and eats into the
+Reputation of a <hi>Teſtimony,</hi> like Oil of Spike ſpilt upon Deal Boards. This
+<hi>Ephraim</hi> I per<g ref="char:EOLhyphen"/>ceive, was like all the reſt of the world; nothing refin'd by his
+Baptiſm; eaſie to believe any thing that made for his Advantage. But now who can blame
+<hi>Harris</hi> or <hi>Gay</hi> for writing and publiſhing ridiculous Fables, when the per<g ref="char:EOLhyphen"/>ſon
+that finds fault, ſhall publiſh, upon <hi>Ephraim</hi>'s being barely Rounded in the Ear,
+ſuch trivial ſtuff as this, which onely denotes the want of better Defence. For I would know,
+if Mr. <hi>L'Eſtrange</hi> were to be try'd upon the ſingle Iſſue, <hi>ſeen at Maſs, or
+not ſeen at Maſs,</hi> and I ſhould come and ſwear, as I do, that I had ſeen him at
+Maſs ſo many times, whether <hi>Reports</hi> and <hi>Hear-ſayes,</hi> and <hi>Round<g ref="char:EOLhyphen"/>ings in
+the Ear,</hi> that I would ſwear this or that which I did not hear, would acquit him? For if
+<hi>I thinks,</hi> and <hi>as I remembers,</hi> and <hi>as I believes,</hi> will not be admitted
+into an Oath, which muſt be abſolute, as mine is, certainly <hi>Hear-ſayes,</hi> and
+<hi>Reports,</hi> and <hi>Roundings in the Ear,</hi> will be as little admitted in the Defence. So
+that in my Opinion
+<pb n="18" facs="tcp:96456:11"/>
+               <hi>Ephraim</hi>'s Intelligence was not at that time worth the Coffee he gave
+for it, though it were but one Diſh.</p>
+            <p>But now <hi>Ephraim</hi> comes to the particulars of the Re<g ref="char:EOLhyphen"/>port, and ſayes, <hi>Ten in
+number;</hi> pray Gentlemen give me leave to conſider a little. Well, I have done it, and I
+muſt faithfully declare to the world, that I do not know of any <hi>Store Ponds</hi> that I have
+for any ſuch ſort of Fiſh. If <hi>Ephraim</hi> know of any, he ſhould do well to make the
+diſcovery. For I know it would be no ſmall ſatisfaction to him to ſee me incur the penalty
+of ſuch a breach of the Law. Truly there is no great probability of the Truth of the Report,
+becauſe the Story it ſelf does not hold wa<g ref="char:EOLhyphen"/>ter. For, for me to have ſo many Witneſſes
+<hi>in a rea<g ref="char:EOLhyphen"/>dineſs,</hi> and not to make uſe of one, was a ſtrange piece of remiſneſs,
+to be ſo careleſs of a certain Victory. Upon the whole, whether Mr. <hi>L'Eſtrange</hi> be a
+Papiſt or no, I will not determine; but theſe are excellent <hi>Hints</hi> for the Papiſts to
+lay hold on; and then to quote a Church-man of <hi>England</hi> for their Author. But 'tis well,
+all is not Go<g ref="char:EOLhyphen"/>ſpel that <hi>Zekiel</hi> and <hi>Ephraim</hi> ſay. I do find they ſuffer
+un<g ref="char:EOLhyphen"/>der the frailty of Fallibility, as well as others. For, as for Mr. <hi>Mowbray,</hi> he came in
+voluntarily, and gave in his In<g ref="char:EOLhyphen"/>formation without my knowledge, and conſequently could be none of
+my number; and there was no more that ap<g ref="char:EOLhyphen"/>pear'd in the buſineſs, eſpecially wherein I was
+concern'd. So that the <hi>Ten</hi> being hitherto inviſible, unleſs Mr. <hi>Ephraim</hi> can
+bring them to light, the Report and the Uſe made of it muſt be both equally
+inſignificant.</p>
+            <p>But there are other Obſervations to be made; For if a Writer do poſitively aver that for
+Truth, which carries another face, 'tis ſhrewdly ſuſpicious he may make the ſame forfeiture
+in more circumſtances than one.</p>
+            <p>Thus Mr. <hi>L'Eſtrange</hi> in his <hi>Diſcovery upon Diſcovery,</hi> p. 13.
+<pb n="19" facs="tcp:96456:11"/>
+               <hi>Now,</hi> Doctor, <hi>ſaith He, I do poſitively aver, that there was
+not one</hi> Church of England-man <hi>in the Parliament Army,</hi> as they call'd it. When it is a
+thing yet freſh in memory, that the Archbiſhop of <hi>York,</hi> that very Metropolitan, upon
+whom <hi>Cleveland</hi> begins his Satyrical Elegy,
+<q>
+                  <l>Here <hi>York</hi>'s great Metropolitan is laid,</l>
+                  <l>Who God's Anointed, and his Church betray'd.</l>
+               </q>
+            </p>
+            <p>Serv'd in the Parliament Army, as it was then call'd, with a Command of Horſe. Now whether an
+Archbiſhop of <hi>York,</hi> and one of the Metropolitans of the Kingdom, would have been
+advanced at that Time, to that Dignity, unleſs he had been a <hi>Church of England-man;</hi>
+that's the ſcruple. However, we may ſay thus much, that he ceas'd no more to be Archbiſhop of
+<hi>York,</hi> by ſiding with the Parliament, than <hi>Julius</hi> the Second ceas'd Pope by
+Joyn<g ref="char:EOLhyphen"/>ing with the <hi>Turks.</hi> And therefore <hi>Cleveland</hi> allows him his Dignity after his
+Death, though he embalm it indeed with <hi>Aſſafaetida</hi> inſtead of <hi>Olibanum.</hi>
+            </p>
+            <p>Now for any man to be ſo poſitive in the aſſertion of a thing, ſo notorionſly
+ſubject to contradiction, will give a ſhrewd ſhog to the former value that was put upon the
+Writings of the ſame Perſon.</p>
+            <p>Thus Mr. <hi>L'Eſtrange</hi> was pleas'd to diſown at the Council-Board that ever he knew
+me: And yet before that, at a certain Coffee-Houſe in <hi>Ludgate-ſtreet,</hi> he pre<g ref="char:EOLhyphen"/>ſently
+vaniſh'd up ſtairs with great diſdain, upon my firſt appearance in the lower Room,
+murmuring out theſe words, <hi>The Devil ſets his Imps at work.</hi>
+            </p>
+            <p>Theſe things I ſhould have been far from taking notice of, had it not been to ſupport my
+own juſtification, verily believing that the world would blame me much, and that
+<pb n="20" facs="tcp:96456:12"/>the publick Enemy would get no ſmall advantage thereby, ſhould I have
+ſuffered my ſelf to be ſo paſſively negligent, as to ſee my ſelf run down with the
+quips and taunts of a quaint and fluent Pen, without a juſt vindication. In a word, I have only
+Sworn that I ſaw him at Maſs; here are other Informations, by which you muſt judge upon what
+account. I have no more to ſay to that particular.</p>
+            <p>Now after all this, and a long ſilence, he is riſen again, and as ſuppoſe, forgetting
+what he declared at the <hi>Half-Moon,</hi> renews the Old-Lurrey of no <hi>Papiſt,</hi> nor
+<hi>Jeſuit</hi> in a Dialogue between <hi>Philo-L'Eſtrange &amp; Pragmetcus.</hi> And Heaven, I
+ſay, prolong his Life, and may <hi>L'Eſtrange no Pa<g ref="char:EOLhyphen"/>piſt nor Jeſuit</hi> be the perpetual
+Theam, that he may ſatisfy his Humour, and write as many Dialogues as ever <hi>Lucian</hi> did.
+But I am very much afraid that a volume of Dia<g ref="char:EOLhyphen"/>logues as big as the Book of Martyrs will do him but
+little good. For he goes about to bury the <hi>Subject</hi> itſelf under the heaps of his own
+Quires, it being moſt certain that men at length will grow tir'd with reading his needleſs
+Apolo<g ref="char:EOLhyphen"/>gies. For they that think him a Church-man of <hi>England,</hi> will believe him ſtill ſo
+to be, notwithſtanding all the Ru<g ref="char:EOLhyphen"/>mours of Accuſation. And as for thoſe that believe him a
+Papiſt, he may perhaps in time waſh a Blackamore white, but will never by that ſort of
+Rhetorick which he uſes be perſwaded to change their opinions. He has ſo <hi>be-plotted</hi>
+the Generality of diſſenters under the odious Name of Fa<g ref="char:EOLhyphen"/>naticks, that he muſt not expect any
+mercy of belief from them. They not being a ſort of people to be gained by Similes and bare
+Flouriſhes of Elocution, it being then to be preſumed, as he may eaſily perceive it
+himſelf, if he pleaſes, that they believe not one tittle of what he ſays, it follows that he
+only writes to them that believe him already, which is a labour altogether needleſs. And then
+again, whatever belief he may pretend to have of the Plot, yet in all his diſcourſes he
+ſpeaks ſo ambiguouſly of it, gives ſuch
+<pb n="21" facs="tcp:96456:12"/>complemental Laſhes to the Diſcoverers, and under the pre<g ref="char:EOLhyphen"/>tence of
+reſpect and honour, ſo jumbles the Kings Evidence among the Rogues, Raſcals and Buftoons,
+upon which he ſpends his Wild-fire upon, that ſhe muſt be a perfect <hi>Pſyche</hi> that
+ſeparates them again by the aid of her beloved. <hi>Cupid.</hi> Now there is either ſome ground
+to believe him a Papiſt or there is none. If there had been really none the buſineſs would
+have dyed of it ſelf. If there be, not all the Milk in <hi>Cheſhire</hi> will be able to
+maſter the Oil which he continu<g ref="char:EOLhyphen"/>ally throws upon the Fire, but here's a clutter and a buſtle,
+as if it were to be a National Concern whether Mr. <hi>L'Eſtrange</hi> be a Papiſt or not, and
+that the Satyrical Sword were never to be ſheath'd till the Controverſie be decided in his
+favour. Heavens bleſs us! cannot he be quiet, go to ſome Cathe<g ref="char:EOLhyphen"/>dral Church, hear the Organs and
+the Church Muſick, and openly ſhew the world what he is, but that he muſt be thus continually
+ratling the Drums of his indignation in the ears of the people, as if he intended to dye with a
+Dialogue in his mouth. Certainly there be men in <hi>England</hi> that have gone to School, and
+read Latine and Greek as well as he, and may perhaps be able to match him at one time or other. And
+the queſtion maybe put, Why Men of Learning have ſo little hitherto troubled themſelves with
+his Writings, whether it be not becauſe they ſee him ſo meanly condeſcending to combat the
+very Pigmies of the Time, with whom they diſ<g ref="char:EOLhyphen"/>dain to engage. But how if this ſhould be a Plot
+among his friends; to ſet the Libellers on to teize and vex him, on purpoſe to keep him chafing
+and chiding for the prolonga<g ref="char:EOLhyphen"/>tion of his Life? That's all one; there muſt be another Plot among
+his Enemies, to countermine that Plot. For if there be not two Plots going at one time, all's not
+worth a ſtraw.</p>
+            <p>But now to draw a ſhort Sketch of his laſt pithy Dialogue between
+<hi>Philo-L'Eſtrange</hi> and <hi>Pragmaticus;</hi> this very Dialogue begins with a
+<hi>Plot;</hi> a Plot between <hi>Pragma<g ref="char:EOLhyphen"/>ticus</hi> and <hi>Philo-L'Eſtrange,</hi> or between
+Himſelf and Himſelf.
+<pb n="22" facs="tcp:96456:13"/>While the one pretends to ſcorn and deride him, that ſo the other ſhould
+take an occaſion to extol his Fame; a meer Combination. For otherwiſe it could not have been
+ſo ſmoothly done, without a more than <hi>Ciceronian</hi> Oſten<g ref="char:EOLhyphen"/>tation.</p>
+            <p>The firſt Confederate calls him <hi>Goliah</hi> and <hi>Diana;</hi> ſingu<g ref="char:EOLhyphen"/>larly well coupled
+in truth. The other <hi>Gogmagog</hi> and <hi>Pen<g ref="char:EOLhyphen"/>theſilea;</hi> another excellent conjunction.
+And thus that he may be the more fit, they make him Male and Female. As if they intended that like
+<hi>Tireſias,</hi> he ſhould have the pleaſure of both Sexes in his old Age. What a
+happineſs a young Batchelor would have to be thus married within himſelf, to ſave the
+Expences of a Wife? Nay, the firſt of the two calls him the <hi>Idoliz'd Diana:</hi> as if Mr.
+<hi>L'Eſtrange</hi> in his Female capacity, had ever been ſo much ador'd as
+<hi>Prag<g ref="char:EOLhyphen"/>maticus</hi> would inſinuate. Now as for <hi>Goliah,</hi> he was ſlain by <hi>Little
+David; Diana</hi> is as well taken for the Moon; <hi>Gog<g ref="char:EOLhyphen"/>magog,</hi> who ſeems to be two Gyants
+twiſted together, is deſtin'd to deſtruction by <hi>Napier,</hi> in his Comment upon the
+Revelation; and for <hi>Pentheſilea,</hi> ſhe was knockt o'the head by that Effeminate
+Spinſter <hi>Achilles.</hi> So that the choice of ſuch ominous Names ſeems not to be well
+taken at the <hi>beginning</hi> of a <hi>Dialogue.</hi> To ſay truth, 'tis a very ſorry
+<hi>Rhodomontado,</hi> the meer Fly upon the Coach-wheel. So that there is ſomething wanting in
+the Title, <hi>L'Eſtrange no Papiſt nor Jeſuit;</hi> Or, The ſolemn publick Entry of
+<hi>Goliah</hi> and <hi>Diana,</hi> and <hi>Gogmagog</hi> and <hi>Pentheſilea.</hi>
+            </p>
+            <p>Now one would think that theſe wonderful Conjuncti<g ref="char:EOLhyphen"/>ons of <hi>Goliah</hi> with <hi>Diana,</hi>
+and <hi>Gogmagog</hi> with <hi>Pentheſilea,</hi> being aſſiſted by the Influences of the
+<hi>new Comet</hi> ſhould produce ſome miraculous effects. But nothing appears, only a lit<g ref="char:EOLhyphen"/>tle
+Plot of his own head to make himſelf equal with the <hi>Duke of York.</hi> Whence you muſt
+underſtand, that <hi>Philo-L'Eſtrange,</hi> is no more in Engliſh then a <hi>Lover,</hi> and
+conſe<g ref="char:EOLhyphen"/>quently
+<pb n="23" facs="tcp:96456:13"/>an <hi>Admirer</hi> of a mans own ſelf. Now to bring a<g ref="char:EOLhyphen"/>bout his ends he
+pretends as if it were as equally criminal to <hi>ſpeak well of L'Eſtrange, as to drink the
+Duke of Yorks Health.</hi> And thus he would inſinuate (for a man may eaſily ſee the pride of
+his heart) that he is equally the diſcourſe of the Nation with the Duke. And this Doctrine he
+would eſtab<g ref="char:EOLhyphen"/>liſh, before he has prov'd either to be criminal. For my part I believe it
+poſitive that 'tis no crime either to drink the Dukes Health: nor to ſpeak well of Mr.
+<hi>Leſtrange.</hi> But on the other ſide I as abſolutely believe that thouſands and ten
+thouſands in the Nation drink the Dukes Health, without thinking it a crime, that never heard, or
+ever car'd to hear of Mr. <hi>L'Eſtrange.</hi> The compariſon was too extenſive and general,
+<hi>Sic parvis componere magna</hi>—does not alwaies hold, eſpecially between ordinary
+Subjects, and great Prin<g ref="char:EOLhyphen"/>ces; more eſpecially where the high and eminent Dignity of the latter is
+concern'd in the diſtinction. Beſides, 'tis the ſtrangeſt Inference that ever I met with to
+conclude an <hi>In<g ref="char:EOLhyphen"/>dividuum Vagum</hi> from a <hi>Hyperbole.</hi> Sayes the Confederate
+<hi>Pragmaticus,</hi> to the Conſpirator, <hi>Philo-L'Eſtrange—You deſerve to be call'd
+in queſtion if you take</hi> Mr. <hi>L'Estranges</hi> part, <hi>or main<g ref="char:EOLhyphen"/>tain he is</hi> no
+Papiſt. This is a palpable and fain'd <hi>Hyperbole,</hi> For no man dares queſtion another for
+taking Mr. <hi>L'Estranges</hi> part, without offenſive words or blows. There<g ref="char:EOLhyphen"/>upon
+<hi>Philo-L'Estrange</hi> replies, <hi>Then I perceive it is become now as criminal to ſpeak well
+of L'Eſtrange, as to Drink the</hi> Duke of York's <hi>Health.</hi> Which is as much as if he had
+ſaid nothing at all; in regard it is no crime to do either the one or the other. This way of
+inferring may be allowed in Drollery, not in Argument, as being againſt the Rules of
+Conſe<g ref="char:EOLhyphen"/>quence, which muſt be ſyllogiſtically true. That which follows is ſcarce worth
+notice, looking more like the Tattle of <hi>Goliah</hi> the Dwarf, than a Diſpute of
+<hi>Goliah</hi> the Gyant; more like the Diſcourſe of <hi>Diana</hi> the Midwiſe, than
+<hi>Diana</hi> the Goddeſs.</p>
+            <pb n="24" facs="tcp:96456:14"/>
+            <p>At length you come to his Eighth Page, where he takes a very fine occaſion to call the King's
+Evidence a <hi>Company of Raſcals,</hi> as they call it, <hi>by craft.</hi>
+            </p>
+            <p>Firſt he raiſes a falſe Propoſition by way of Diſcourſe. Sayes <hi>Prag. to Philo. I
+ſay, If they ſwear he is a Papiſt, I am bound to believe it.</hi>
+            </p>
+            <p>Now do I wonder to whom Mr. <hi>L'Estrange</hi> writes, whether to Fools, or Men of ſenſe?
+if to Fools, 'tis time very ill ſpent; if to Wiſe men, worſe; for Mr. L. <hi>Estrange</hi>
+can never imagine that any Wiſe man can think him a <hi>Pa<g ref="char:EOLhyphen"/>pist,</hi> let a hundred
+<hi>Theyes</hi> ſwear againſt him, unleſs they can make it out by overt Acts ſufficient to
+prove the Alle<g ref="char:EOLhyphen"/>gation. <hi>However,</hi> ſayes <hi>Philo.</hi> in Anſwer to <hi>Pragg's</hi>
+falſe Propoſition, <hi>May not any impartial perſon conclude,</hi> notwith<g ref="char:EOLhyphen"/>ſtanding ſuch
+Swearing, <hi>that</hi> L'Eſtrange <hi>is all this while an honest man, and a true Son of the
+Church of England?</hi> Not at all, ſays <hi>Prag.</hi> But I ſay, yes without all queſtion.
+Then ſays <hi>Philo.</hi> to <hi>Prag.</hi> again but what <hi>if two or three malicious fellows
+ſhould ſwear that you were in the plot, would you be ſuch a fool to believe it? No,</hi>
+ſayes <hi>Prag.</hi> the caſe is alter'd. <hi>I would ſay they were a Company of Raſcals
+that ſhould ſwear I was in the Plot, when I knew no more of it than the Child unborn.</hi> Upon
+which <hi>Philo.</hi> very ſmartly reſorts upon <hi>Prag:</hi> Then <hi>the Kings Evi<g ref="char:EOLhyphen"/>dence it
+ſeems maybe a Company of Raſcals, if they ſhould depoſe anything againſt you</hi> but not
+againſt another; and then procee<g ref="char:EOLhyphen"/>ding, <hi>may not another mans conſcience,</hi> ſays he,
+<hi>give theſe bold Swea<g ref="char:EOLhyphen"/>rers, the lie, as well as yours can do?</hi> Now I appeal to
+<hi>Reaſon</hi> itſelf, whether ſuch an impertinent Queſtion as this, might not have been
+diſcuſſed more calmly without reflecting ſo ſharply upon the Kings Evidence? For Mr.
+<hi>L'Eſtrange</hi> cannot imagine men ſo ſenſeleſs, as not to diſ<g ref="char:EOLhyphen"/>cern the mark at
+which he directs his aim. There is no man but may palpably perceive how he frames his Story
+pur<g ref="char:EOLhyphen"/>poſely
+<pb n="25" facs="tcp:96456:14"/>to take his opportunity to be<g ref="char:EOLhyphen"/>ſmear their Coats with his daubing bruſh.
+With which he gives them no leſs than three filthy touches one after another. <hi>Malicious
+fellows,</hi> a company of Raſcals <hi>and bold Swearers.</hi> For doing of which, though perhaps
+he may have gratifyed his revenge, moſt certainly his prudence can never applaud him; for that in
+doing a great deal a Miſchief he does himſelf no good; I mean; unleſs it ſpring from
+thoſe who have the only reaſon to encou<g ref="char:EOLhyphen"/>rage his proceedings. Otherwiſe to blemiſh the
+reputation of thoſe upon whoſe Teſtimony like ſo many hinges of Truth, the Juſtice of the
+Kingdom has hitherto mov'd, in Affairs of ſuch vaſt Importance, is a violation of all his
+proteſtations to the higheſt ſtrain; beſides that he puts the weapons of his own
+paſſion into the hands of the Enemy.</p>
+            <p>'Twill be in vain to anſwer with Shifts, and Similes and Flouriſhes, or to cry, <hi>who can
+ſay I meant the Kings Evidence;</hi> or, <hi>why ſhould any man think I intended them?</hi> For
+the Kings Evidence
+<pb n="26" facs="tcp:96456:15"/>were the perſons chiefly concern'd in his grievances, and therefore men will
+take the liberty of their thoughts, though he write Dialogues till dooms day. So that if the
+ſtream of opini<g ref="char:EOLhyphen"/>on run ſo violent againſt him, he may thank himſelf for pulling up the
+Slu<g ref="char:EOLhyphen"/>ces.</p>
+            <p>However leaſt men ſhould miſdoubt the buſineſs, he gives his Dear
+<hi>Philo-L'Eſtrange</hi> a Commiſſion to bray it out to the whole world, for upon his
+complaint, that he ſhould not have the ſame Liberty as others, <hi>Pragmaticus</hi> asks him
+how that ſhould be, <hi>when his own conſcience tells him he is a</hi> Papiſt? <hi>So that if
+he</hi> would <hi>but have dealt ingenuouſly, he</hi> ſhould <hi>have gone to the Council, and
+inform'd againſt himſelf.</hi> How! ſays <hi>Philo-L'Eſtrange, have a care what you ſay,
+for if Dr.</hi> Oats <hi>and the reſt ſhould come to know that you ſhould offer to adviſe
+any man, Papiſt or not Papiſt, to do any ſuch thing, take my word for it, they would
+certainly fall foul on you for going about to take away their lively-hood.</hi>
+            </p>
+            <p>Now this is not to fall foul upon the
+<pb n="27" facs="tcp:96456:15"/>Perſons, but upon ſubſtantial part of the Evidence itſelf; as if the
+Diſcovery of the Plot had been fram'd, and ſo ma<g ref="char:EOLhyphen"/>ny Perſons had been executed, to
+accom<g ref="char:EOLhyphen"/>modate the Neceſſities of them that gave the Evidence; and that they made a
+<hi>Trade</hi> of Informing againſt people, right or wrong; Than which, he could not have
+invented a greater Reproach, to make the Pope and all his Cardinals mer<g ref="char:EOLhyphen"/>ry.</p>
+            <p>And yet after all this, you ſhall hear him proteſting himſelf, to be a true Pro<g ref="char:EOLhyphen"/>teſtant
+and a Church of <hi>England</hi> man. Be<g ref="char:EOLhyphen"/>lieve it that will, for my part I never ſhall; neither
+ſhall I adviſe any Body ſo to do, but rather the Contrary: Neither is it a farthing matter
+what he is, whether Proteſtant or Papiſt, conſidering how he writes. And 'tis well the King's
+Evidence care not a ſtraw for his Reſpect and Re<g ref="char:EOLhyphen"/>verence, ſince he has ſo irreverently
+for<g ref="char:EOLhyphen"/>feited it all, to the Diſſatisfaction, he may be ſure, of the Generality of the
+Nation.</p>
+            <p>For if what he ſaies be true, all the Monthly daies of <hi>Humiliation,</hi> as the long
+<pb n="28" facs="tcp:96456:16"/>Parliament enjoyned, and as many more would not ſerve to expiate the
+Injuſtice already committed. If it were in the pow<g ref="char:EOLhyphen"/>er of man, theſe injured people ought to be
+recall'd from their Graves, and re<g ref="char:EOLhyphen"/>ſtored to Life, to behold the worſe ends of them, that made
+a <hi>Trade</hi> of Informing againſt them; and all the Homage ima<g ref="char:EOLhyphen"/>ginable done them to obtain
+their For<g ref="char:EOLhyphen"/>giveneſs. What could all the Colledges of Jeſuites, or all the Cells of Monkiſh
+Superſtition, have uttered more virulent, or more venomous to the Proteſtant Re<g ref="char:EOLhyphen"/>ligion? He
+boaſts his Loyalty, and there is no queſtion to be made, but he has been very Loyal. But if he
+hath former<g ref="char:EOLhyphen"/>ly given down ſuch good Milk, he now does very ill thus to ſpurn down the Pail. So
+dearly might the Proteſtant cauſe pay for this flaſhy Conceipt of his, if his Cre<g ref="char:EOLhyphen"/>dit were
+currant Coin. Tell the King's Evidence, that they make a Trade of informing, and proteſt
+himſelf a Prote<g ref="char:EOLhyphen"/>ſtant! 'Tis Impoſſible: For I muſt tell Mr. <hi>L'Eſtrange,</hi> 'tis
+the very Language, and the topping Aſperſion caſt upon them, by the Vindication of the
+<hi>Engliſh</hi> Catholicks, Printed at St. <hi>Omers.</hi>
+            </p>
+            <pb n="29" facs="tcp:96456:16"/>
+            <p>But to proceed a little farther, here Mr. <hi>L'Eſtrange</hi> keeps a racket, whether
+Proteſtant or Papiſt, a Diſpute of no va<g ref="char:EOLhyphen"/>lue, as not concerning the Nation three pence; but
+in my opinion, he begins at the wrong end.</p>
+            <p>He is ſupected to be a Papiſt, becauſe he is ſuſpected to be in the latter part, at
+leaſt, of the Plot, and not for any other Reaſon.</p>
+            <p>'Tis true, he was acquitted from be<g ref="char:EOLhyphen"/>ing in the Plot, at the Council-Board; and ſo he was from
+being a Papiſt: And yet the ſame Suſpitions and Surmiſes remain in the Sentiments of the
+People, as well as to the one as the other.</p>
+            <p>Why could not that Acquittal ſerve his turn, as well for the buſineſs of <hi>Papiſt or
+no Papiſt,</hi> as for the Accuſation of his being in the Plot? For as to the latter, he is
+con<g ref="char:EOLhyphen"/>tented to free himſelf only with a ſilly Story of Monſieur <hi>Choqueus,</hi> and by way
+of Proteſtation, as little to be credited, as he handles the matter, as his Proteſta<g ref="char:EOLhyphen"/>tions of
+being a <hi>Church of England man.</hi>
+            </p>
+            <pb n="30" facs="tcp:96456:17"/>
+            <p>But about the Concern of <hi>Papiſt</hi> or no <hi>Papiſt,</hi> here is ſuch a clutter, as
+if his Life lay upon't, and that one of Queen <hi>Ma<g ref="char:EOLhyphen"/>ries</hi> Bonfires were flaming to receive his
+Carkaſs, if he did not quibble out the Contrary. Dialogues upon Dialogues, as if he blew them out
+of his Noſe. He ſhould have begun his Dialogues, to have cleared himſelf from the main
+Ac<g ref="char:EOLhyphen"/>cuſation, and that in a more ſerious manner too, than he writes; and then the Diſpute of
+<hi>Papiſt</hi> or no <hi>Papiſt,</hi> would have fallen of Courſe. The People of
+<hi>England</hi> do believe, they have reapt ſuch a Benefit by the Diſcovery of the Plot, that
+they will never thank Mr. <hi>L'Eſtrange</hi> for drolling upon it. And therefore I am very
+ſorry, that he is ſo much miſta<g ref="char:EOLhyphen"/>ken in his <hi>Dialogue-Oeconomy.</hi>
+            </p>
+            <p>His next Flirt at the <hi>Kings Evidence</hi> is, That the <hi>Notorious Ill Manners of his
+Accuſers</hi> is a <hi>Theam for Diſcourſe.</hi> To which I ſay, that he ought to explain
+his Meaning; for if by <hi>Manners</hi> he intends Cuſtoms, and Converſation, he is required to
+make it out.</p>
+            <p>And now as if he got a clever victory,
+<pb n="31" facs="tcp:96456:17"/>he claps his Wings, and Crows, and Me<g ref="char:EOLhyphen"/>naces all the World, with a <hi>Woe be to
+you Scribes and Phariſees.</hi> Nay he threatens <hi>to return with a Whip and a Bell, to laſh
+all thoſe barking Curs, that durſt hardly ſnarle or grin while he ſhewed his Face.</hi> But
+for my part, if I might be thought worthy of giving it, I would adviſe Mr. <hi>L'Eſtrange</hi>
+to take my Counſel; which is indeed no more than what he himſelf has reſolved, and already
+faithfully promiſed to do. And the Reaſon is plain, for it would be much more proper and comely
+for a Gentle<g ref="char:EOLhyphen"/>man to keep his Word, than to run a Cur-hunting up and down the Streets, with a Whip
+and Bell in his hand.</p>
+            <p>Obſerve then, that he has fairly pro<g ref="char:EOLhyphen"/>miſed, at the end of his Appeal, to <hi>betake</hi>
+himſelf <hi>to the quieteſt way of making his Eſ<g ref="char:EOLhyphen"/>cape, out of an Impious and Trapanning
+World, into a better.</hi> No he muſt expect, that theſe bawling Curs will never leave him off,
+but with their yelping and yowling will be continually worrying his Brains, and tormenting his
+Eares in this World. And therefore I would not have him recede from his firſt Reſolution.
+Beſides that it will be of ill Conſequence; for when
+<pb n="32" facs="tcp:96456:18" rendition="simple:additions"/>people find, that a man has been untrue to his Word in one thing,
+eſpecially in a matter of ſuch Importance, as going to Heaven, they'l preſently believe he
+may have failed, or forgot himſelf, in all his other Proteſtations.</p>
+            <p>Thus the Reader is to conſider the In<g ref="char:EOLhyphen"/>formations themſelves, the Nature of them, their
+Purport and Extent, and what may probably and rationally be concluded from them; and Mr.
+<hi>L'Eſtrange</hi> is to conſider the reſt.</p>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>THAT the World may be certain, that a Church<g ref="char:EOLhyphen"/>man of <hi>England</hi> did command in the
+Parliament Ar<g ref="char:EOLhyphen"/>my; Obſerve what has been written on this Occaſion by a Famous Author, in a Book
+Entituled, <hi>The Profeſsion of Several, whom theſe times have made and called
+Nonconformists.</hi> Printed 1676. Pag. 115. He puts this Queſtion.</p>
+            <q>
+               <p>If the War had been raiſed only by Nonconformiſts, yet why ſhould a 1000, or 1400
+Miniſters <hi>now,</hi> that were never proved guilty of any Wars, be ſilenced and ruined for
+other mens Actions; any more than the Con<g ref="char:EOLhyphen"/>formiſts for the Arch-Biſhop of <hi>York</hi>'s, who
+was a Com<g ref="char:EOLhyphen"/>mander for the Parliament?</p>
+            </q>
+            <p>And then what becomes of Mr. <hi>L'Estrange's Poſitive Aver?</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:96456:18"/>
+         </div>
+      </back>
+   </text>
+</TEI>
